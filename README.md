@@ -1,1 +1,1 @@
-https://dumantorbayev.github.io/JS-practice/
+https://dumantorbayev.github.io/JS-practice/practicalJS/
